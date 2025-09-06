@@ -1,0 +1,9 @@
+"""
+This face tracking system is designed to be fast and simple. Here's how we made it work:
+
+We chose speed over perfect accuracy so it can run on regular computers without special hardware. The system looks at each video frame one by one instead of trying to understand the whole video at once. This makes it simpler but sometimes less smooth.
+
+We used basic face detection that works quickly instead of more advanced (but slower) methods. The system is built in separate steps - first finding faces, then finding facial features - so we can easily upgrade parts later.
+
+The focus is on making something that works reliably on most webcams rather than being the most advanced system possible. We measure success by how well it works in real situations, not just by perfect test scores.
+"""

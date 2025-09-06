@@ -1,0 +1,12 @@
+{
+  "total_vehicles": 2655,
+  "cars": 10,
+  "buses": 0,
+  "trucks": 0,
+  "motorbikes": 2645,
+  "drowsy_drivers": 1,
+  "anomalies": 86,
+  "frames_processed": 1800,
+  "processing_time": 666.9713475704193,
+  "fps": 2.698766606027187
+}
